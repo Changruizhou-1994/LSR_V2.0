@@ -1,0 +1,25 @@
+{
+  "version": "2.1",
+  "internal_version": "1.17.11",
+  "sequence": 1,
+  "assets": {
+    "LSR-v2.1-portable-win-x64.zip": {
+      "size": 67613391,
+      "sha256": "2d46a24cc3cb81869d1718412f59cc3c7b184343edd62420165ed9af1c870e24"
+    },
+    "LSR-v2.1-win-x64.zip": {
+      "size": 57631457,
+      "sha256": "7df66a3a8ade5b77d1f4f1a11e3bdba6d4d3965b9b1e544a64d89519ff5c100c"
+    },
+    "update.json": {
+      "size": 4333,
+      "sha256": "502cef31111fa8766639fb3829abf83712449ecebe91fab784bff0a867cc20a8"
+    },
+    "update.json.sig": {
+      "size": 88,
+      "sha256": "c237852769e4913b923c8eaa394a4c7b207ef0763b9da4cb968bf11f6afef96d"
+    }
+  },
+  "release_url": "https://github.com/Changruizhou-1994/LSR_V2.0/releases/tag/v2.1",
+  "download": "Choose portable-win-x64.zip for a complete installation; Source code archives are not installers."
+}
