@@ -1,9 +1,0 @@
-# 设计与寄存器地址配置；GUI 和生成脚本共享此文件。
-[design_param]
-data_width = 16
-default_register_width = 16
-addr_width = 32
-register_address_step = 1
-design_base_addr_en = 0
-param_base_addr_en = 0
-

@@ -1,0 +1,119 @@
+{
+  "versions": {
+    "versions/r3": {
+      "design_param.cfg.txt": {
+        "sha256": "8698dc3067e6dab07ee2ad3e3eb895ec63df7049357c9dbc6e9843065c06ce54",
+        "size": 221
+      },
+      "LSR_V2.3.exe": {
+        "sha256": "50b4bf5478f9fe0548075b3af67851f4aa364a405545a1cb991a429efea72e3b",
+        "size": 56775605
+      },
+      "LSR_V2.3_发布说明.md": {
+        "sha256": "631bc26232fa147bcd83a25d321208d69924b85b8d02906a80a2f55474e65479",
+        "size": 741
+      },
+      "LSR_开发变更记录.md": {
+        "sha256": "40c601a78bc48825b94334d7f44f718941f671962b609e25667b18344703fdda",
+        "size": 226886
+      },
+      "ReMSettings.ini": {
+        "sha256": "d5973fd64b17766976f7fe5b09069813ed24381e33874ca334beb067ecde0dc6",
+        "size": 604
+      },
+      "samples/LSR_2000_Rule_Errors.db": {
+        "sha256": "874b7c285efb956442177f8fbcb2979b7c56310783a3d8d4f6079a4085bd4aed",
+        "size": 569344
+      },
+      "samples/LSR_Large_MCU_5120_Registers.db": {
+        "sha256": "a54f8b3d6c413cd1332f1d36c0f2c959b84ed24976ae17d9662da967ea254e22",
+        "size": 6033408
+      },
+      "samples/README_大型MCU测试库.md": {
+        "sha256": "23d75cfd6dd645baa47a3c11feec765f9501b90f7c8deb1a1fe80d69a674e701",
+        "size": 1730
+      },
+      "scripts/dayu_top.db": {
+        "sha256": "57dd8a8fafb25006cb36a5833f414a5da0471f6f1093e48a72c28a2946380d65",
+        "size": 417792
+      },
+      "scripts/gen_design.py": {
+        "sha256": "e937d1e595399c1d45afdbeec203d01112587f908e6b0d263c190824ca30a00f",
+        "size": 9841
+      },
+      "scripts/gen_ds.py": {
+        "sha256": "341be833b7d980b6739daed37ee79358ef8a399015027c5072c2dbc375d963c5",
+        "size": 11326
+      },
+      "scripts/gen_dv_mask_default_val.py": {
+        "sha256": "e85a284e62a7e74178f1db2a4fd3b3d7482571685e60c7b039447892c6a8bfc5",
+        "size": 18116
+      },
+      "scripts/gen_header.py": {
+        "sha256": "14f58eeb0d2a80086e556cdf3f6e9f997471d37de033d2a73d8d5eb3f9fbbd9c",
+        "size": 40894
+      },
+      "scripts/gen_header_bak.py": {
+        "sha256": "232392e7e1642b3b82829f1e48c6501d71d197e1f56f1f06eabeb6009877baab",
+        "size": 40750
+      },
+      "scripts/gen_mmr_APB.py": {
+        "sha256": "3f3af51a04a93a3aa4a6e14b54658cb794c3924b2180f838c33032548912c4f1",
+        "size": 36421
+      },
+      "scripts/gen_non_trim_mmr.py": {
+        "sha256": "7d859db8e92ddd5dc09f1fd19ba6f4dab42380494fda8df15b3ca41e1f579c71",
+        "size": 26123
+      },
+      "scripts/gen_parm_addr.py": {
+        "sha256": "99eb5930623853dc6b629977b07c2f7533a05ace7669c00e73db3a055362d63d",
+        "size": 6336
+      },
+      "scripts/gen_scan_handler.py": {
+        "sha256": "50241e350921f359365275a91537692df4aa7bc8863a5aad83ea514a2d3fed6c",
+        "size": 8367
+      },
+      "scripts/gen_shadow_interface.py": {
+        "sha256": "38c8970864049d166bc56c04fb16496ccd65c79e74cdd634ea0df45bc2bd60f8",
+        "size": 6150
+      },
+      "scripts/gen_svd.py": {
+        "sha256": "55cd0cc67f2a21f2d1f5c81e543d7aebfd3321eb0462d0c3e9d129606d302b0f",
+        "size": 9834
+      },
+      "scripts/gen_test_header.py": {
+        "sha256": "ff540043fbfc96a28238b936fc8d44d24759b5b51abf03a39d629f078655b445",
+        "size": 10194
+      },
+      "scripts/gen_trim_mmr.py": {
+        "sha256": "2cddf9d60601d35f6717d83eaaf79a16a8a535b2c5a8d31446b9caa0047ca3ec",
+        "size": 18068
+      },
+      "scripts/gen_trim_mmr_bak.py": {
+        "sha256": "257cd3802a8930850a3ed3e3a55fea873c8cd422a7e0c89525130d1789ae6904",
+        "size": 16783
+      },
+      "scripts/gen_uvm_reg_model.py": {
+        "sha256": "c1d09ffb3a76a43ca0e178a4a6adb1a4dda6aaf23f571c46f850716ad27f9fec",
+        "size": 15055
+      },
+      "scripts/gen_verilog_bus.py": {
+        "sha256": "8ef7100b587e194178796d3e65bfce449b4193e65d5a25baa751dd93f8497372",
+        "size": 28748
+      },
+      "scripts/gen_verilog_instance.py": {
+        "sha256": "e65017a396ebadaa3cb379089fd47b3fadeaf193435c595db5dd027edea27b57",
+        "size": 12064
+      },
+      "scripts/regdb.py": {
+        "sha256": "389e5e404fcd11ca6e4a016ee8e45c101620320a6d06c4c9194447f6e6c54fd3",
+        "size": 6590
+      },
+      "寄存器工具快速上手_LSR2.3.docx": {
+        "sha256": "060f4e55d598fe768e2d287ffbabbee23857c66d4f6b45428c509bc428752829",
+        "size": 372023
+      }
+    }
+  },
+  "jobs": {}
+}

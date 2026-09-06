@@ -1,0 +1,13 @@
+{
+  "current": {
+    "sequence": 3,
+    "directory": "versions/r3",
+    "entry": "LSR_V2.3.exe",
+    "entry_sha256": "50b4bf5478f9fe0548075b3af67851f4aa364a405545a1cb991a429efea72e3b",
+    "product_version": "2.3",
+    "internal_version": "1.17.18",
+    "tag": "v2.3"
+  },
+  "previous": null,
+  "launching": false
+}
